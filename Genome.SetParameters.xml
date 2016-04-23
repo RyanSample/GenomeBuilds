@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
   <setParameter name="IIS Web Application Name" value="Default Web Site/Genome_deploy" />
-  <setParameter name="DefaultConnection-Web.config Connection String" value="Server=localhost;Database=GENOME;Uid=root;Pwd=csgenome;" />
   <setParameter name="Genome.Models.GenomeAssemblyDbContext-Web.config Connection String" value="Genome.Models.GenomeAssemblyDbContext_ConnectionString" />
+  <setParameter name="DefaultConnection-Web.config Connection String" value="Server=localhost;Database=GENOME;Uid=root;Pwd=csgenome;" />
 </parameters>
